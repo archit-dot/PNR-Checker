@@ -39,7 +39,15 @@ python pnr_status.py
 
 ## Output
 
-See the screenshots below.
+## 📷 Output Screenshots
+
+### Sample Output 1
+
+![Output 1](confirm.png)
+
+### Sample Output 2
+
+![Output 2](status set.png)
 
 ## Author
 
