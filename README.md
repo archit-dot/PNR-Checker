@@ -47,7 +47,7 @@ python pnr_status.py
 
 ### Sample Output 2
 
-![Output 2](status set.png)
+![Output 2](status.png)
 
 ## Author
 
